@@ -1,6 +1,4 @@
-#E Learning Blog
-
-E Learning Blog Developed In Raw PHP
+# E-LEARNING PLATFORM 
 
 <img src="https://i.imgur.com/hybNs6o.png" />
 <br>
